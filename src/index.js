@@ -48,7 +48,7 @@ for (const animal in animales) {
 
 const hechosSobreAnimales = (
   <div>
-    <h1>{titulo === "" ? "Click Sobre un Animal prueba Netlify" : titulo}</h1>
+    <h1>{titulo === "" ? "Click Sobre un Animal Netlify + Git" : titulo}</h1>
     {mostrarFondo && fondo}
     <p id='hecho'></p>
     <div className="animales">
